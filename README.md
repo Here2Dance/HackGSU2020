@@ -5,6 +5,6 @@ Our Project for HackGSU 2020!
 Contributors:
 Madhava Vorrey
 Amber Wells
-Meya Eresia-Eke
+Chihumeya Eresia-Eke
 Michael James Roussell
 
