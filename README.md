@@ -3,8 +3,8 @@ Our Project for HackGSU 2020!
 
 
 Contributors:
-Madhava Volley
+Madhava Vorrey
 Amber Wells
-Meya ~~~
+Meya Eresia-Eke
 Michael James Roussell
 
