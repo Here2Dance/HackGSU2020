@@ -20,11 +20,11 @@
         <div class="containter">
             <nav>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">First Steps</a></li>
-                    <li><a href="#">Further Steps</a></li>
-                    <li><a href="#">Forms</a></li>
-                    <li><a href="#">Sign In/Up</a></li>
+                    <li><a href=#>Home</a></li>
+                    <li><a href=#>First Steps</a></li>
+                    <li><a href=#>Further Steps</a></li>
+                    <li><a href=#>Forums</a></li>
+                    <li><a href=#>Sign In/Up</a></li>
                 </ul>
             </nav>
 
@@ -54,12 +54,25 @@
     <!--Tools-->
     <div>
         <h1>Tools</h1>
-        <div class="box-cell box1">
-
+        <div class="row">
+            <div class="colum">
+                <img class="firststeps" src="{% static 'firstSteps.jpg' %}" width=350px alt="A person working on a math problem on a white board">
+            </div>
+            <div class="colum">
+                <img src="{% static 'furtherRes.jpg' %}" width=350px  alt="">
+            </div>
+            <div class="colum">
+                <img src="{% static 'forms.jpg' %}" width=415px alt="Two friends working on a chemisty project together">
+            </div>
         </div>
     </div>
 
-
+    <!--Like what you see-->
+    <div class="containerSide text">
+        <div class="box-cell box1">
+            <h1>Join Today!</h1>
+            <p>Join LiveInStem to get started with your stem life!</p>
+        </div>
+    </div>
 </body>
-
 </html>
